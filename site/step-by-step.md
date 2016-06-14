@@ -430,7 +430,7 @@ $ hledger balance assets
 
 ### balance shows the sum of matched posting amounts
 
-Here's a balance report based only on the postings dated 2013/2/13:
+Here's a balance report based only on the postings dated 2015/5/26:
 ```shell
 $ hledger balance date:2015/5/26
                  $-5  assets
